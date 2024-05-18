@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @CodeJuansa
-- 👀 I’m interested in  desarrollar paginas web y aprender cada vez mas sobre este enorme mundo de la programacion.
-- 🌱 I’m currently learning html, javascrip y css
-- 📫 How to reach me por medio de mi coreo juansantiagoospina@gmail.com
-- 😄 Pronouns: JUANSA
-- ⚡ Fun fact: SOLO SE QUE NADA SE 
+# Bienvenido a Mi GitHub
 
-<!---
-CodeJuansa/CodeJuansa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Sobre Mí
+¡Hola! Soy **Juan Santiago Ospina**. Tengo una pasión por la programación y siempre estoy buscando aprender más. En mis tiempos libres, me dedico a explorar nuevos lenguajes de programación y a trabajar en proyectos personales que me permiten mejorar mis habilidades.
+
+## Mis Intereses
+- **Aprendizaje Continuo**: Me encanta enfrentarme a nuevos retos y aprender de ellos.
+- **Programación**: Especialmente interesado en HTML, JAVASCRIPT, y ESPECIALMENTE EN TYPE SCRYP.
+- **Proyectos Personales**: Disfruto creando aplicaciones que puedan solucionar problemas cotidianos o que simplemente me permitan experimentar con nuevas tecnologías.
