@@ -8,10 +8,4 @@
 - **Programación**: Especialmente interesado en HTML, JAVASCRIPT, y ESPECIALMENTE EN TYPE SCRYP.
 - **Proyectos Personales**: Disfruto creando aplicaciones que puedan solucionar problemas cotidianos o que simplemente me permitan experimentar con nuevas tecnologías.
 
-<div class="social-buttons">
-  <!-- Botón de Facebook -->
-  <a href="tu-enlace-facebook" class="fa fa-facebook"></a>
-  <!-- Botón de Twitter -->
-  <a href="tu-enlace-twitter" class="fa fa-twitter"></a>
-  <!-- Añade más botones según necesites -->
-</div>
+Contactame:juansantiagoospina@gmail.com
